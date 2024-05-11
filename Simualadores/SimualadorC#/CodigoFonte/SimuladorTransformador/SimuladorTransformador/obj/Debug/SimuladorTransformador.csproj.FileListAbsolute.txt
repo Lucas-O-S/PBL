@@ -1,0 +1,10 @@
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\bin\Debug\SimuladorTransformador.exe.config
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\bin\Debug\SimuladorTransformador.exe
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\bin\Debug\SimuladorTransformador.pdb
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\obj\Debug\SimuladorTransformador.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\obj\Debug\SimuladorTransformador.Properties.Resources.resources
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\obj\Debug\SimuladorTransformador.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\obj\Debug\SimuladorTransformador.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\obj\Debug\SimuladorTransformador.exe
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\obj\Debug\SimuladorTransformador.pdb
+C:\Users\lucas\Downloads\SimuladorTransformador\SimuladorTransformador\obj\Debug\SimuladorTransformador.Simulador.resources
